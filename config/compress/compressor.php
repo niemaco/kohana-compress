@@ -15,7 +15,7 @@ return array
 	),
 	'closure_service'		=> array
 	(
-		'url'				=> 'http://closure-compiler.appspot.com/compile',
+		'url'				=> 'http://closure-compiler.appspot.com/home',
 		'compilation_level'	=> 'SIMPLE_OPTIMIZATIONS',
 	),
 	'cssmin'				=> array
